@@ -1,10 +1,18 @@
-# WeLoveMovies Frontend Application
+# Movies front-end
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+This is the Front End Application for the WeLoveMovies project.
 
-## Installation
+## Getting Started
 
-1. Fork / clone this repository.
-1. Run `npm install`.
+To run the project locally, follow these steps:
 
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+1. **Install dependencies and start**
+ 	- npm install
+ 	- npm start
+2. **Troubleshooting Frontend:**
+   If you encounter any issues while setting up the frontend, try the following steps:
+ 	- npm audit fix --force
+ 	- npm install util
+
+3. **Run the build process:**
+ 	- npm run build
