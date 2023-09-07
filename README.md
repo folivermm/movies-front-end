@@ -1,6 +1,6 @@
 # Movies front-end
 
-This is the Front End Application for the WeLoveMovies project.
+This is the front-end application for the WeLoveMovies project.
 
 ## Getting Started
 
